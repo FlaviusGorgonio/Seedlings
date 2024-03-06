@@ -2,5 +2,6 @@
 A simple seed and seedling manager system
 
 © by Flavius Gorgônio
-  UFRN, Caicó, RN, Brazil
-  Developing since Mar, 2024
+  Federal University of Rio Grande do Norte
+  Caicó, RN, Brazil
+  Since Mar, 2024
